@@ -4,7 +4,7 @@ order: 3
 
 title: ¿Cómo llenar el Inventario de Datos?
 date: 2015-07-06
-document: /docs/inventario_general_de_datos.csv
+document: /docs/inventario_general_de_datos.xlsx
 hover_link: /docs/miniguia_inventario_institucional_de_datos.docx
 
 section: templates
