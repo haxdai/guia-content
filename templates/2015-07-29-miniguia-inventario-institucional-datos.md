@@ -12,11 +12,11 @@ category: inventory
 
 El *Administrador de Datos* debe solicitar formalmente a cada *Área Generadora* (Unidad Administrativa) la inclusión de los datos en su responsabilidad en el formato de *Inventario Institucional de Datos*.
 
-Una redacción de <a href="{{ "/docs/oficio_solicitud_inventario_de_datos.docx" | prepend: site.baseurl }}">solicitud</a> formal para el *Inventario de Datos* está disponible en la sección de ‘Manuales y Plantillas’ en datos.gob.mx/guia, esta deberá acompañarse de la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> de Inventario de Datos.
+Una redacción de <a href="{{ "/docs/oficio_solicitud_inventario_de_datos.docx" | prepend: site.baseurl }}">oficio de solicitud</a> para el *Inventario de Datos* está disponible en la sección de ‘Manuales y Plantillas’ en datos.gob.mx/guia, esta deberá acompañarse de la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> de Inventario de Datos.
 
 La Guía que encontrarán a continuación, hace referencia a la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> del *Inventario Institucional de Datos*. La definición de las palabras subrayadas se encuentran en el Glosario de Términos en el Anexo 2.
 
-Se estima un plazo promedio para su elaboración de 10 días hábiles.
+Se estima un plazo promedio para su elaboración de <strong>10 días hábiles</strong>.
 
 <table>
     <thead>
@@ -32,8 +32,8 @@ Se estima un plazo promedio para su elaboración de 10 días hábiles.
             <td>
               <p>La identificación de los temas sustantivos se elabora a partir de un ejercicio de revisión de los siguientes seis elementos:</p>
               <ol>
-                <li>Información necesaria para el desempeño de las funciones sustantivas de la Institución (conforme a los Artículos 18 y 19 de la Ley General de Transparencia). Esto se corrobora contra listado de las principales funciones que desempeña el Área Generadora (comúnmente se derivan del marco jurídico de la Institución, tal como el Reglamento Interior de la Institución).</li>
-                <li>Información utilizada para diseño y seguimiento de programas presupuestarios o políticas públicas sectoriales derivados del Programa Nacional de Desarrollo.</li>
+                <li>Información necesaria para el desempeño de las funciones sustantivas de la Institución (conforme a los Artículos 18 y 19 de la <i>Ley General de Transparencia</i>). Esto se corrobora contra listado de las principales funciones que desempeña el <i>Área Generadora</i> (comúnmente se derivan del marco jurídico de la Institución, tal como el <i>Reglamento Interior</i> de la Institución).</li>
+                <li>Información utilizada para diseño y seguimiento de programas presupuestarios o políticas públicas sectoriales derivados del <i>Programa Nacional de Desarrollo</i>.</li>
                 <li>Información para la atención a tratados, acuerdos o compromisos internacionales.</li>
                 <li>Información para la atención a solicitudes presidenciales, legislativas o sectoriales.</li>
                 <li>Información utilizada para la difusión periódica en publicaciones oficiales, y</li>
@@ -46,8 +46,8 @@ Se estima un plazo promedio para su elaboración de 10 días hábiles.
         <tr>
             <td><strong>2. Definir los Conjuntos de Datos</strong></td>
             <td>
-              <p>Cada uno de los temas sustantivos identificados en el paso anterior estan relacionados al menos un Conjunto de Datos, que resulta útil para conocer y comprender el trabajo del Área Generadora.</p>
-              <p>Estos pueden ser, entre otros, Datos Abiertos sobre la situación histórica, actual (y cuando la función del Área Generadora lo considere, proyectada):</p>
+              <p>Cada uno de los temas sustantivos identificados en el paso anterior estan relacionados al menos un <i>Conjunto de Datos</i>, que resulta útil para conocer y comprender el trabajo del <i>Área Generadora</i>.</p>
+              <p>Estos pueden ser, entre otros, <i>Datos Abiertos</i> sobre la situación histórica, actual (y cuando la función del <i>Área Generadora</i> lo considere, proyectada):</p>
               <ol>
                 <li>del sector donde se desempeña la función,</li>
                 <li>de la infraestructura utilizada,</li>
@@ -56,7 +56,7 @@ Se estima un plazo promedio para su elaboración de 10 días hábiles.
                 <li>de indicadores de la operación, o</li>
                 <li>de la regulación aplicable.</li>
               </ol>
-              <p>En la plantilla de Inventario de Datos, estos Conjuntos de Datos se deben registrar bajo la Columna B, titulada ‘nombre del conjunto’, preferentemente con 'unidades de medida' y 'tema'.</p>
+              <p>En la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> de <i>Inventario de Datos</i>, estos <i>Conjuntos de Datos</i> se deben registrar bajo la <strong>Columna B</strong>, titulada ‘nombre del conjunto’, preferentemente con 'unidades de medida' y 'tema'.</p>
               <p>Por ejemplo:</p>
               <ul>
                 <li>viviendas con servicio de agua potable,</li>
@@ -85,7 +85,7 @@ Se estima un plazo promedio para su elaboración de 10 días hábiles.
             <td>
               <p>Una vez enlistados los Recursos de Datos, se debe identificar la fuente de datos de donde estos proceden (base de datos, excel, etc.) y se registra en la Columna G ‘¿en qué plataforma, tecnológica, programa o sistema se albergan?’</p>
               <p>De igual forma, se debe registrar el cargo del funcionario designado como Responsable para su actualización en la Columna A, ‘responsable’.</p>
-              <p>Una vez identificadas las fuentes de datos y sus responsables, cada Área Generadora registra su listado en la plantilla del Inventario de Datos para su entrega al Administrador de Datos.</p>
+              <p>Una vez identificadas las fuentes de datos y sus responsables, cada Área Generadora registra su listado en la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> del Inventario de Datos para su entrega al Administrador de Datos.</p>
               <p>Partiendo de la definición de Información Pública prevista en la Ley General de Transparencia y de la regulación aplicable a la función específica, el Área Generadora verifica en la Columna E ‘¿tiene datos privados?’ si el Recurso de Datos contiene datos privados, de ser el caso, en la Columna F ‘razón por la cuál es privada los datos’ debe referir el fundamento jurídico que así lo acredita.</p>
               <p>Por último, en la Columna H ‘fecha estimada de publicación en datos.gob.mx (en caso de ser datos públicos) (AAAA-MM)’ al Área Generadora determina una fecha estimada de publicación de cada Recurso de Datos.</p>
               <p><i>Tiempo estimado: 2h</i></p></td>
