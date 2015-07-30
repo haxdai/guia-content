@@ -12,9 +12,9 @@ category: inventory
 
 El *Administrador de Datos* debe solicitar formalmente a cada *Área Generadora* (Unidad Administrativa) la inclusión de los datos en su responsabilidad en el formato de *Inventario Institucional de Datos*.
 
-Una redacción de <a href="../../docs/oficio_solicitud_inventario_de_datos.docx">solicitud</a> formal para el *Inventario de Datos* está disponible en la sección de ‘Manuales y Plantillas’ en datos.gob.mx/guia, esta deberá acompañarse de la <a href="../../docs/inventario_general_de_datos.csv">plantilla</a> de Inventario de Datos.
+Una redacción de <a href="{{ "/docs/oficio_solicitud_inventario_de_datos.docx" | prepend: site.baseurl }}">solicitud</a> formal para el *Inventario de Datos* está disponible en la sección de ‘Manuales y Plantillas’ en datos.gob.mx/guia, esta deberá acompañarse de la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> de Inventario de Datos.
 
-La Guía que encontrarán a continuación, hace referencia a la <a href="../../docs/inventario_general_de_datos.csv">plantilla</a> del *Inventario Institucional de Datos*. La definición de las palabras subrayadas se encuentran en el Glosario de Términos en el Anexo 2.
+La Guía que encontrarán a continuación, hace referencia a la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> del *Inventario Institucional de Datos*. La definición de las palabras subrayadas se encuentran en el Glosario de Términos en el Anexo 2.
 
 Se estima un plazo promedio para su elaboración de 10 días hábiles.
 
