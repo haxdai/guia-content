@@ -1,6 +1,6 @@
 ---
 published: true
-order: 2
+order: 3
 
 title: Plantilla para el Oficio de Solicitud de Inventario de Datos
 date: 2015-07-28
