@@ -2,10 +2,10 @@
 published: true
 order: 7
 
-title: Instituciones prioritarias por tener datos de la Infraestructura Estratégica de Datos Abiertos
+title: Instituciones Prioritarias de la Infraestructura Estratégica de Datos Abiertos
 date: 2015-07-06
-document: /docs/listado_instituciones_obligadas.docx
-download_link: Descargar Archivo
+document: /manuales-plantillas/instituciones-prioritarias.html
+hide_link: true
 
 section: templates
 category: templates
