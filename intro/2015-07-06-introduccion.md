@@ -44,13 +44,19 @@ La Unidad de Gobierno Digital, en colaboración con la Coordinación de Estrateg
         <tr>
             <td><p>70 días naturales</p></td>
             <td><p>Paso 1. 2 - Crear un Inventario Institucional de Datos</p></td>
-            <td><p>Publicación del Plan de Apertura en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a>.</p><p>Plantilla en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a></p></td>
+            <td>
+              <p>Publicación del Plan de Apertura en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a>.</p><p>Plantilla en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a></p>
+              <p class="footnote">* Para validar enviar correo a <a href="mailto:escuadron@datos.gob.mx">escuadron@datos.gob.mx</a> con copia al OIC de su Institución.</p>
+            </td>
             <td><p>Decreto de Datos Abiertos e Índice de Datos Abiertos del PGCM</p></td>
         </tr>
         <tr>
             <td><p>100 días naturales</p></td>
             <td><p>Paso 1. 3 - Priorizar los datos de valor</p><p>Paso 1. 4 - Generar y Publicar el Plan de Apertura Institucional</p></td>
-            <td><p>Publicación del Plan de Apertura en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a>.</p><p>Plantilla en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a></p></td>
+            <td>
+              <p>Publicación del Plan de Apertura en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a>.</p><p>Plantilla en: <a href="http://datos.gob.mx/guia">datos.gob.mx/guia</a></p>
+              <p class="footnote">* Para validar enviar correo a <a href="mailto:escuadron@datos.gob.mx">escuadron@datos.gob.mx</a> con copia al OIC de su Institución.</p>
+            </td>
             <td><p>Decreto de Datos Abiertos e Índice de Datos Abiertos del PGCM</p></td>
         </tr>
         <tr>
