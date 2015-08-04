@@ -1,14 +1,13 @@
 ---
 published: true
 layout: guide
-
 title: Listado de Instituciones prioritarias para la publicación Datos Abiertos
-date: 2015-07-31
-
+date: {}
 permalink: "/manuales-plantillas/instituciones-prioritarias.html"
 section: inventory
 category: inventory
 ---
+
 
 **i.** El Decreto que Establece la Regulación en Materia de Datos Abiertos publicado en el Diario Oficial de la Federación el 20 de febrero de 2015 es de aplicación obligatoria para para todas las Instituciones de la APF.
 
@@ -16,7 +15,7 @@ category: inventory
 
 **iii.** Siguiendo este mandato, el 18 de marzo de 2015 se lanzó la [Infraestructura Estratégica de Datos Abiertos](http://www.gob.mx/consulta/docs/infraestructura-estrategica-de-datos-abiertos) que es un listado público de los conjuntos de datos que más valor pueden tener para el público.
 
-**iv.** Con independencia de la obligatorieidad del Decreto para todas las dependencias y entidades de la APF, la presente lista se refiere a aquellas Instituciones que serán prioritarias para 2015.
+**iv. Con independencia de la obligatorieidad del Decreto para todas las dependencias y entidades de la APF**, la presente lista se refiere a aquellas Instituciones que serán prioritarias para 2015.
 
 **v.** Esta lista fue construida en base a aquellas que están directamente relacionadas con los conjuntos resultantes de la Infraestructura Estratégica de Datos Abiertos, sumado a las dependencias y entidades pertenecientes al Gabinete, Gabinete Ampliado y aquellas que tienen la obligación de publicar Información de Interés Nacional.
 
