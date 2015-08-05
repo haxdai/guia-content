@@ -16,7 +16,24 @@ Una redacción de <a href="{{ "/docs/oficio_solicitud_inventario_de_datos.docx" 
 
 La Guía que encontrarán a continuación, hace referencia a la <a href="{{ "/docs/inventario_general_de_datos.xlsx" | prepend: site.baseurl }}">plantilla</a> del *Inventario Institucional de Datos*. La definición de las palabras subrayadas se encuentran en el Glosario de Términos en el Anexo 2.
 
-Se estima un plazo promedio para su elaboración de <strong>10 días hábiles</strong>.
+Se estima un plazo promedio para su elaboración de **10 días hábiles**.
+
+#### Parte 1: Introducción al Inventario Institucional de Datos
+
+<div class="video" style="padding-top: 0px;">
+  <p>
+    <iframe id="about-video" src="//www.youtube.com/embed/Hf16j64wrvE?rel=0&amp;showinfo=0"></iframe>
+  </p>
+</div>
+
+#### Parte 2: Ejemplo de Desarrollo del Inventario Institucional de Datos
+
+<div class="video" style="padding-top: 0px;">
+  <p>
+    <iframe id="about-video" src="//www.youtube.com/embed/JAfeovbcKCo?rel=0&amp;showinfo=0"></iframe>
+  </p>
+</div>
+
 
 <table>
     <thead>
